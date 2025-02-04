@@ -7,7 +7,7 @@ const Hero = () => {
     <div className='hero' id='home'>
       <img src={profile_img}></img>
       <h1>
-        <span>I'M Balakrishna,</span> Fullstack developer,JAVA coder.
+        <span>I'M Balakrishna,</span> Fullstack developer,JAVA programmer.
       </h1>
       <p>I am student in GMRIT. Currently pursuing B.Tech 4th year. Ready to take the job to represent myself in the profession.</p>
       <div className='hero-action'>
